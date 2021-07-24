@@ -1,0 +1,15 @@
+boa noite sou o raphael representante do grupo erro 404
+
+1- o cliente vai mandar o dominio para o servidor DNS
+
+2- que vai devolver o ip do site
+
+3- atraves do protocolo HTTPS, entra-se em contato com o host do google
+
+4- faz-se uma request para se conectar com o site
+
+5- enquanto isso o load balancer faz o controle de trafego com o servidor do google
+
+6- com status 200 ok o servidor responde ao cliente 
+
+7- o cliente mostra o conteúdo do site atraves da layout engine
