@@ -1,0 +1,34 @@
+body{
+    font-size: 16px;
+}
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+
+ul{
+  background-color: blue;
+  font-style: oblique;
+  font-size: 32px;
+  line-height: 3em;
+  text-align: center;
+  text-decoration: underline;
+}
+.classe-teste{
+  background-color: aquamarine;
+}
+
+p{
+    font-weight: 600;
+    font-size: 3em;
+}
+#yellow{
+    color: yellow;
+}
+#red{
+    color: red;
+}
+#brown{
+    color: brown;
+}
