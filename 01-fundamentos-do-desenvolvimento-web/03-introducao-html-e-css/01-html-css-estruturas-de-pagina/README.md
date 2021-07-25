@@ -1,6 +1,6 @@
 # Exercícios realizados nos dia 21 de julho de 2021
 
-## Parte I
+## Parte 1
 
 1. Crie uma lista das pessoas que você já fez amizade na Trybe.
 

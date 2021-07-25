@@ -1,6 +1,6 @@
 # Exercícios realizados nos dia 14 de julho de 2021
 
-## Parte I - Criação de arquivos e diretórios
+## Parte 1 - Criação de arquivos e diretórios
 
 Dica : Para criação de arquivos vazios você pode utilizar o comando `touch nome-do-arquivo.extensao`.
 
@@ -49,7 +49,7 @@ SQL
 
 16. Apague todos os arquivos que terminem em `.txt`.
 
-## Parte II - Manipulação e Busca
+## Parte 2 - Manipulação e Busca
 
 1. Na pasta `unix_tests`, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl:
 
