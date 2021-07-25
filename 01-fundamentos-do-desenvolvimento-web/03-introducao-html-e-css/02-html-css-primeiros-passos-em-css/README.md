@@ -1,6 +1,6 @@
 # Exercícios realizados nos dia 22 de julho de 2021
 
-## Parte I
+## Parte 1
 
 1. Modifique o tamanho do h1 para 65 pixels
 

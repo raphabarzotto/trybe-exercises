@@ -1,6 +1,6 @@
 # Exercícios realizados no dia 15 de julho de 2021
 
-## Parte I - Comandos de Input e Output
+## Parte 1 - Comandos de Input e Output
 
 1. Navegue até a pasta `unix_tests`;
 
@@ -24,7 +24,7 @@
 
 11. Ordene o arquivo `bunch_of_things.txt`.
 
-## Parte II - Permissões
+## Parte 2 - Permissões
 
 1. Navegue até a pasta `unix_tests`;
 
@@ -42,7 +42,7 @@
 
 > Resultado esperado: `-rw-r--r-- 1 ana ana 1860 ago 13 11:39 bunch_of_things.txt`
 
-## Parte III - Processos & Jobs
+## Parte 3 - Processos & Jobs
 
 1. Liste todos os processos;
 
@@ -67,7 +67,7 @@ Você vai precisar trazer o processo para foreground ( `fg` ) e suspendê-lo ( `
 9. Termine a execução de todos os processos `sleep` (~~mate os processos~~).
 
 
-## (Bônus) - Parte IV - O despertar do terminal
+## (Bônus) - Parte 4 - O despertar do terminal
 
 E pra terminar com a energia óh, lá no alto, que tal aprender agora alguns comandos divertidos do UNIX? ☝🎊
 
