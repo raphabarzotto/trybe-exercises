@@ -1,0 +1,32 @@
+div:hover{
+    border: 1px solid black;
+}
+
+#div1{
+    color: red;
+}
+
+#div2{
+    color: blue;
+}
+
+#div3{
+    color: yellow;
+    font-size: 20px;  
+}
+
+#div4{
+    color: darkslategrey;
+}
+
+#div5{
+    color: grey;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+.impar{
+    font-style: italic;
+}
