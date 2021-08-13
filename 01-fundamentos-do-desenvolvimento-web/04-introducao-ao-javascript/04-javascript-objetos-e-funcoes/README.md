@@ -1,4 +1,4 @@
-# Exercícios realizados nos dia 30 de julho de 2021
+# Exercícios realizados nos dia 02 de agosto de 2021
 
 ## Exercícios - Parte 1
 
