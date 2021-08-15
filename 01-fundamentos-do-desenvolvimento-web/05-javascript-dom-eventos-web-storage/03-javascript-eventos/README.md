@@ -2,13 +2,13 @@
 
 ## Exercício 1
 
-1. O array dezDaysList contém os dois últimos dias de novembro e os dias do mês de dezembro. Desenvolva uma função que crie dinamicamente cada dia do calendário e os adicione como filhos/filhas da tag <ul> com ID "days" . Note que os dias 29 e 30 de novembro estão no array pois representam respectivamente Segunda-feira e Terça-feira.
+1. O array dezDaysList contém os dois últimos dias de novembro e os dias do mês de dezembro. Desenvolva uma função que crie dinamicamente cada dia do calendário e os adicione como filhos/filhas da tag `<ul>` com ID "days" . Note que os dias 29 e 30 de novembro estão no array pois representam respectivamente Segunda-feira e Terça-feira.
 
-    1. Os dias devem estar contidos em uma tag <li> , e todos devem ter a classe day . Ex: <li class="day">3</li>
+    1. Os dias devem estar contidos em uma tag `<li>` , e todos devem ter a classe day . Ex: `<li class="day">3</li>`
 
-    2. Os dias 24, 25 e 31 são feriados e, além da classe day , devem conter também a classe holiday . Ex: <li class="day holiday">24</li>
+    2. Os dias 24, 25 e 31 são feriados e, além da classe day , devem conter também a classe holiday . Ex: `<li class="day holiday">24</li>`
 
-    3. Os dias 4, 11, 18 e 25 são Sexta-feira. Eles devem conter a classe day e a classe friday . Ex: <li class="day friday">4</li>
+    3. Os dias 4, 11, 18 e 25 são Sexta-feira. Eles devem conter a classe day e a classe friday . Ex: `<li class="day friday">4</li>`
 
 ## Exercício 2
 
@@ -16,7 +16,7 @@
 
     1. Adicione a este botão a ID "btn-holiday" .
 
-    2. Adicione este botão como filho/filha da tag <div> com classe "buttons-container" .
+    2. Adicione este botão como filho/filha da tag `<div>` com classe "buttons-container" .
 
 ## Exercício 3
 
@@ -30,7 +30,7 @@
 
     1. Adicione a este botão o ID "btn-friday" .
 
-    2. Adicione este botão como filho/filha da tag <div> com classe "buttons-container" .
+    2. Adicione este botão como filho/filha da tag `<div>` com classe "buttons-container" .
 
 ## Exercício 5
 
@@ -44,17 +44,17 @@
 
 ## Exercício 7
 
-7. Implemente uma função que adiciona uma tarefa personalizada ao calendário. A função deve receber como parâmetro a string com o nome da tarefa (ex: "cozinhar") e criar dinamicamente um elemento com a tag <span> contendo a tarefa.
+7. Implemente uma função que adiciona uma tarefa personalizada ao calendário. A função deve receber como parâmetro a string com o nome da tarefa (ex: "cozinhar") e criar dinamicamente um elemento com a tag `<span>` contendo a tarefa.
 
-    1. O elemento criado deverá ser adicionado como filho/filha da tag <div> que possui a classe "my-tasks" .
+    1. O elemento criado deverá ser adicionado como filho/filha da tag `<div>` que possui a classe "my-tasks" .
 
 ## Exercício 8
 
-8. Implemente uma função que adiciona uma legenda com cor para a tarefa criada no exercício anterior. Esta função deverá receber como parâmetro uma string ("cor") e criar dinamicamente um elemento de tag <div> com a classe task .
+8. Implemente uma função que adiciona uma legenda com cor para a tarefa criada no exercício anterior. Esta função deverá receber como parâmetro uma string ("cor") e criar dinamicamente um elemento de tag `<div>` com a classe task .
 
-    1. O parâmetro cor deverá ser utilizado como cor de fundo da <div> criada.
+    1. O parâmetro cor deverá ser utilizado como cor de fundo da `<div>` criada.
 
-    2. O elemento criado deverá ser adicionado como filho/filha da tag <div> que possui a classe "my-tasks" .
+    2. O elemento criado deverá ser adicionado como filho/filha da tag `<div>` que possui a classe "my-tasks" .
 
 ## Exercício 9
 
