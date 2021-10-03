@@ -1,4 +1,4 @@
-# Exercícios realizados no dia 01 de setembro de 2021
+# Exercícios realizados no dia 02 de setembro de 2021
 
 ## Para Fixar
 
