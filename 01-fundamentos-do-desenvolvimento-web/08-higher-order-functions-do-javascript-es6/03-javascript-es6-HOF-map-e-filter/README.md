@@ -1,4 +1,4 @@
-# Exercícios realizados no dia 06 de setembro de 2021
+# Exercícios realizados no dia 08 de setembro de 2021
 
 ## Exercícios
 
