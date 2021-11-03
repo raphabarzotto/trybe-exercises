@@ -83,5 +83,5 @@ Contém todas as atividades, exercicios e projetos desenvolvidos por [mim](https
 - [x] 10-B.1 - Introdução - Front-end
 - [x] 10-B.1 - Introdução - React
 - [x] 10-B.1 - 'Hello, world!' no React!
-- [ ] 10-B.2 - Componentes React
+- [x] 10-B.2 - Componentes React
 - [ ] 10-B.3 - Projeto - Solar System
