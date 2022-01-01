@@ -89,5 +89,5 @@ Contém todas as atividades, exercicios e projetos desenvolvidos por [mim](https
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - [x] 11.1 - Componentes com Estado e Eventos
-- [ ] 11.2 - Formulários no React
+- [x] 11.2 - Formulários no React
 - [ ] 11.3 - Projeto - Tryunfo
