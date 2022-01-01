@@ -86,8 +86,12 @@ Contém todas as atividades, exercicios e projetos desenvolvidos por [mim](https
 - [x] 10-B.2 - Componentes React
 - [x] 10-B.3 - Projeto - Solar System
 
-
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - [x] 11.1 - Componentes com Estado e Eventos
 - [x] 11.2 - Formulários no React
-- [ ] 11.3 - Projeto - Tryunfo
+- [x] 11.3 - Projeto - Tryunfo
+
+##### Bloco 12: Ciclo de Vida de Componentes e React Router
+- [x] 12.1 - Ciclo de Vida de Componentes
+- [ ] 12.2 - React Router
+- [ ] 12.3 - Projeto - TrybeTunes
